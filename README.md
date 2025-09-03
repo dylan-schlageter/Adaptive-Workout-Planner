@@ -29,11 +29,11 @@ Click "Get your custom training plan" in the middle OR "Create Training Plan" in
 <br />
 </h2>
 
-<p align="center">
+<h2 align="center">
 View your new workout plan in "Workouts" page: <br/>
 <img width="100%" height="916" alt="image" src="https://github.com/user-attachments/assets/f74ffae9-0df7-4b3e-8e8c-6e317c119701" />
 <br />
 <br />
-</p>
+</h2>
 
 
