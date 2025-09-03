@@ -2,7 +2,7 @@
 <h1>Adaptive Workout Planner</h1>
 
 <h2>Description</h2>
-A hobby project that I created to help me work out more efficiently. Full-stack web app that gives a user a workout plan based on parameters, automatically updates workouts to make them harder, and tracks user stats in their dashboard.
+A hobby project that I created to help me work out efficiently. Full-stack web app that gives a user a workout plan based on parameters, automatically updates workouts to make them harder, and tracks user stats in their dashboard.
 <br/>
 
 <h2>Languages and Utilities Used</h2>
