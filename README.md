@@ -16,7 +16,8 @@ A hobby project that I created to help me work out more efficiently. Full-stack 
 
 <p align="center">
 Launch the app: <br/>
-<img width="80%" height="80%" alt="image" src="https://github.com/user-attachments/assets/15b741f0-9807-4ac5-99ef-0133ba54fa7a" />
+<img width="1909" height="911" alt="image" src="https://github.com/user-attachments/assets/ab32e547-b003-4dc6-9203-5d7befeb38ec" />
+
 <br />
 <br />
 Enter player IDs:  <br/>
