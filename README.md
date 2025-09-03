@@ -12,22 +12,22 @@ A hobby project that I created to help me work out more efficiently. Full-stack 
 - <b>React</b>
 - <b>Node.js</b>
 
-<h2>Program walk-through:</h2>
+<h1>Program walk-through:</h1>
 
-<p align="center">
+<h2 align="center">
 Launch the app: <br/>
 <img width="80%" height="911" alt="image" src="https://github.com/user-attachments/assets/ab32e547-b003-4dc6-9203-5d7befeb38ec" />
 <br />
 <br />
-</p>
+</h2>
 
-<p align="center">
+<h2 align="center">
 Click "Get your custom training plan" in the middle OR "Create Training Plan" in the side panel: <br/>
 <img width="80%" height="896" alt="image" src="https://github.com/user-attachments/assets/2d81716c-6583-4913-aed0-3b08aa2ba818" />
 
 <br />
 <br />
-</p>
+</h2>
 
 <p align="center">
 View your new workout plan in "Workouts" page: <br/>
