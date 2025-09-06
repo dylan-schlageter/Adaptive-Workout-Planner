@@ -16,7 +16,8 @@ A hobby project that I created to help me work out efficiently. Full-stack web a
 
 <h2 align="center">
 Launch the app: <br/>
-<img width="80%" height="911" alt="image" src="https://github.com/user-attachments/assets/ab32e547-b003-4dc6-9203-5d7befeb38ec" />
+<img width="90%" height="908" alt="image" src="https://github.com/user-attachments/assets/2585cce0-acd5-4479-b10e-70af5acf3b69" />
+
 <br />
 <br />
 </h2>
