@@ -48,7 +48,7 @@ Click on a workout to edit and add stats <br/>
 </h2>
 
 <h2 align="center">
-After every workout it will have a progression next to it <br/>
+Every workout auto adapts to your progress <br/>
 <img width="680" height="812" alt="image" src="https://github.com/user-attachments/assets/8eaba9b2-2a9a-42c3-8ac0-56a40cc52db4" />
 
 
