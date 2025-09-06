@@ -24,7 +24,7 @@ Launch the app: <br/>
 
 <h2 align="center">
 Click "Get your custom training plan" in the middle OR "Create Training Plan" in the side panel: <br/>
-<img width="80%" height="896" alt="image" src="https://github.com/user-attachments/assets/2d81716c-6583-4913-aed0-3b08aa2ba818" />
+<img width="90%" height="897" alt="image" src="https://github.com/user-attachments/assets/89ec915d-4563-4033-9766-6ee8d2d3f310" />
 
 <br />
 <br />
@@ -32,9 +32,19 @@ Click "Get your custom training plan" in the middle OR "Create Training Plan" in
 
 <h2 align="center">
 View your new workout plan in "Workouts" page: <br/>
-<img width="100%" height="916" alt="image" src="https://github.com/user-attachments/assets/f74ffae9-0df7-4b3e-8e8c-6e317c119701" />
+<img width="90%" height="908" alt="image" src="https://github.com/user-attachments/assets/dce1d268-a38e-41f4-8b97-d641d74576b7" />
 <br />
 <br />
 </h2>
+
+<h2 align="center">
+Click on a workout to edit and add stats <br/>
+<img width="703" height="827" alt="image" src="https://github.com/user-attachments/assets/3bff1fcc-d19f-48e5-a592-28573b75bf29" />
+
+<br>
+<br>
+</h2>
+
+
 
 
