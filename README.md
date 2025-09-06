@@ -24,7 +24,8 @@ Launch the app: <br/>
 
 <h2 align="center">
 Click "Get your custom training plan" in the middle OR "Create Training Plan" in the side panel: <br/>
-<img width="704" height="756" alt="image" src="https://github.com/user-attachments/assets/e272c463-5c0c-4f6f-b755-bf3ef62ca9e2" />
+<img width="704" height="756" alt="image" src="https://github.com/user-attachments/assets/dc830560-c18d-4e81-a234-4f2d04d5dee0" />
+
 
 
 <br />
